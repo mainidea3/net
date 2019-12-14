@@ -1,1 +1,1 @@
-echo "color is color and Y"
+echo "color is RED"
